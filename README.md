@@ -1,5 +1,10 @@
 # FC message remover
 This repo is for a small tool developed in Python and using Selenium for the automatisation of the deletion of your messages in the infamous spanish forum www.forocoches.com
+## Usage
+```
+$ python3 delete.py
+```
+
 ## Dependencies
 
 ### Selenium
