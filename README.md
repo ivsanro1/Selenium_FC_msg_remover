@@ -18,7 +18,7 @@ $ sudo pip3 install numpy
 
 ## Troubleshooting
 ### Selenium gecko driver
-Selenium for Python is cool and sexy, but nothing comes for free: if this is the first time you use Selenium API for Python, you may have problems with something called "gecko driver" and it is browser dependent. For example, if you are going to use the Firefox browser with Selenium, you will need the Selenium gecko driver for Firefox, which is different from the Chrome one, etc. Don't panic, this is not a big deal. All you have to do to use the Firefox browser with Selenium, if this is your first time and you have problems with the gecko driver, is download it and put it in your `PATH`, e. g., place it in `/usr/bin` or `/usr/local/bin`.
+Selenium for Python is cool and sexy, but nothing comes for free: if this is the first time you use Selenium API for Python, you may have problems with something called "gecko driver" and it is browser dependent. For example, if you are going to use the Firefox browser with Selenium, you will need the Selenium gecko driver for Firefox, which is different from the Chrome one, etc. Don't panic, this is not a big deal. All you have to do to use the Firefox browser with Selenium, if this is your first time and you have problems with the gecko driver, is download it (the gecko driver for Firefox) and put it in your `PATH`, e. g., place it in `/usr/bin` or `/usr/local/bin`.
 
 
 Other supported browsers will have their own drivers available. Links to some of the more popular browser drivers follow.
